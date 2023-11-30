@@ -207,7 +207,7 @@ body {
     display: block;
     min-height: 100vh;
     flex-wrap: wrap;
-    background-color: black; /* Set a background color for the body */
+    background-color: transparent; /* Set a background color for the body */
 }
 
 :root {
